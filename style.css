@@ -116,4 +116,111 @@ section {
     justify-content: center;
     align-items: center;
 }
+
+#main-container {
+    display: flex;
+    width: 1920px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-item>h2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    padding-left: 300px;
+    color: #272727;
+    width:530px ;
+    height: 48px;
+    font-size: 40px;
+}
+.main-item,p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 400;
+    width: 590px;
+    height: 60px;
+    padding: 24px 0px 24px 300px;
+    color: #676565;
+}
+
+.btn-two {
+    display: flex;
+    padding: 15px 35px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 300px;
+}
+.btn-two:hover {
+    background-color: rgb(2, 57, 54);
+}
+.main-img-one {
+    width: 300px;
+    height: 400px;
+    padding: 50px 400px 0px 0px;
+}
+.middle-section {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 25px;
+   
+}
+.middle-section>h2 {
+    width: 180px;
+    height: 45px;
+    font-size: 40px;
+    color: #272727;
+    padding: 50px 0px 5px 0px ;
+    margin-left: 520px;
+}
+.middle-section, p {
+    display: flex;
+    width: 594px;
+    height: 200px;
+    flex-direction: column;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-left: 500px;
+}
+#beauty-img {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 240px;
+    padding: 0px;
+}
+.flower-one {
+    width: 342px;
+    height: 396px;
+    padding-right: 24px;
+}
+.flower-two {
+    width: 342px;
+    height: 396px;
+    padding-right: 24px;
+}
+.flower-three {
+    width: 342px;
+    height: 396px;
+    padding-right: 24px;
+}
+.flower-four {
+    width: 342px;
+    height: 396px;
+    padding-right: 24px;
+}
   
