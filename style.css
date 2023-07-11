@@ -91,3 +91,29 @@
     margin-right: 500px;
     text-decoration: underline;
 }
+#bonus-part {
+    display: block;
+    width: 1440px;
+    height: 320px;
+    margin: 50px 240px 50px 240px;
+    background-color: rgba(39, 39, 39, 0.05);;
+}
+.bonus-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 230px 250px 250px ;
+    
+}
+.bonus-two p {
+   padding: 20px;
+}
+
+section {
+    width: 1920px;
+    height: 480px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
