@@ -278,4 +278,36 @@ section {
 .btn-three:hover {
     background-color: rgb(2, 57, 54);
  }
+ footer {
+    display: flex;
+    background-color: #494747;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    width: 1922px;
+    height: 650px; 
+    margin-top: 100px;
+    padding-left: 600px;
+
+  }
+  
+  .shop-footer {
+    
+    margin: 0px ;
+     
+  }
+  
+  .f-head {
+    font-size: 24px;
+    font-weight: 400;
+    color: #E55473;
+    padding: 50px  400px 50px 400px;
+  }
+  
+  .shop-footer p {
+    margin: 10px 0px;
+    padding:25px 350px 100px 100px ;
+    color: #ffffff;
+  }
+
   
