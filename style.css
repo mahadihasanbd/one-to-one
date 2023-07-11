@@ -181,9 +181,9 @@ section {
     width: 180px;
     height: 45px;
     font-size: 40px;
-    color: #272727;
+    color: #080200;
     padding: 50px 0px 5px 0px ;
-    margin-left: 520px;
+    margin-left: 450px;
 }
 .middle-section, p {
     display: flex;
@@ -194,7 +194,7 @@ section {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-    padding-left: 500px;
+    padding-left: 420px;
 }
 #beauty-img {
     display: flex;
@@ -254,14 +254,17 @@ section {
 .inp-design {
     display: flex;
     align-items: center;
+    margin:0px 100px 100px 200px ;
 }
   
 .inp-box {
     padding-bottom: 20px ;
     margin:10px 10px 50px 50px ;
-    border: 1px solid #ccc;
-    width: 400px;
-    height: 40px;
+    border: 2px solid #ccc;
+    width: 500px;
+    height: 35px;
+    border-radius: 4px;
+    font-size: 20px;
 }
   
 .btn-three {
