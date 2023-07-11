@@ -53,3 +53,41 @@
     height: 800px;
     padding: 50px 240px 0px 0px;
 }
+#bonus-one {
+    display: flex;
+ }
+  
+.pic-one,
+.pic-two,
+.pic-three {
+    width: 310px;
+    height: 428px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+ }
+  
+.pic-one img,
+.pic-two img,
+.pic-three img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 40%;
+    margin-bottom: 50px;
+}
+  
+.pic-one p,
+.pic-two p,
+.pic-three p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    color: #333;
+    margin-right: 500px;
+    text-decoration: underline;
+}
